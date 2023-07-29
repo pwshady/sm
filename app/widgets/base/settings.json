@@ -1,0 +1,16 @@
+{
+    "0": {
+        "styles": {
+            "type": "css",
+            "href": "/app/widgets/languageselector/css/style.css",
+            "method": 1
+        }
+    },
+    "1": {
+        "footer_scripts": {
+            "type": "js",
+            "href": "/app/widgets/languageselector/js/js.js",
+            "method": 1
+        }
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "dns": "mysql:host=185.9.147.200;dbname=tdb;sharset=utf8",
+    "user": "tdb",
+    "password": "4f8rkdydtdb"
+}

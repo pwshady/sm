@@ -1,0 +1,16 @@
+{
+    "0": {
+        "styles": {
+            "type": "css",
+            "href": "https://localhost/fad/app/bootstrap/dist/css/bootstrap.css",
+            "method": 1
+        }
+    },
+    "1": {
+        "footer_scripts": {
+            "type": "js",
+            "href": "https://localhost/fad/app/bootstrap/dist/js/bootstrap.bundle.min.js",
+            "method": 1
+        }
+    }
+}

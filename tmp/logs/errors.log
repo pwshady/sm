@@ -1,0 +1,142 @@
+[2023-06-25 19:07:53] Code: 2 | Message: Undefined array key "HTTP_REFERRER" | File: /opt/lampp/htdocs/fad/app/widgets/languageselector/Controller.php | Line: 39
+[2023-06-25 19:08:12] Code: 2 | Message: Undefined array key "HTTP_REFERER" | File: /opt/lampp/htdocs/fad/app/widgets/languageselector/Controller.php | Line: 39
+[2023-06-25 20:04:21] Code: 2 | Message: Undefined array key "URI" | File: /opt/lampp/htdocs/fad/vendor/fa/func/auxiliarys.php | Line: 10
+[2023-06-25 20:42:05] Code: 0 | Message: Class "App" not found | File: /opt/lampp/htdocs/fad/vendor/fa/func/auxiliarys.php | Line: 11
+[2023-06-25 20:48:38] Code: 0 | Message: Call to undefined function app\widgets\languageselector\emptu() | File: /opt/lampp/htdocs/fad/app/widgets/languageselector/Controller.php | Line: 23
+[2023-06-25 21:03:56] Code: 0 | Message: Cannot assign string to property fa\Registry::$language of type array | File: /opt/lampp/htdocs/fad/vendor/fa/Registry.php | Line: 123
+[2023-06-25 21:34:22] Code: 0 | Message: Call to undefined function fa\getUrl() | File: /opt/lampp/htdocs/fad/vendor/fa/Registry.php | Line: 375
+[2023-06-26 18:07:40] Code: 0 | Message: Call to private method app\widgets\dtorrent\Model::setTdata() from scope app\widgets\dtorrent\Controller | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Controller.php | Line: 25
+[2023-06-26 18:08:43] Code: 2 | Message: Undefined property: app\widgets\dtorrent\Model::$config | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 18
+[2023-06-26 18:16:51] Code: 2 | Message: Undefined property: app\widgets\dtorrent\Model::$config | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 18
+[2023-06-26 18:17:27] Code: 0 | Message: Class "app\widgets\dtorrent\App" not found | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 18
+[2023-06-26 18:19:03] Code: 2 | Message: Trying to access array offset on value of type null | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 20
+[2023-06-26 19:55:45] Code: 0 | Message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT * FROM torrent WHERE hash='18DA47245D6BB3017F3846B818A5622BC2DB37D3' LIMI' at line 1 | File: /opt/lampp/htdocs/fad/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+[2023-06-26 19:56:27] Code: 0 | Message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT * FROM torrent WHERE hash='18DA47245D6BB3017F3846B818A5622BC2DB37D3' LIMI' at line 1 | File: /opt/lampp/htdocs/fad/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+[2023-06-26 19:56:55] Code: 0 | Message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT * WHERE hash='18DA47245D6BB3017F3846B818A5622BC2DB37D3' LIMIT 1   -- keep' at line 1 | File: /opt/lampp/htdocs/fad/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+[2023-06-28 17:58:43] Code: 0 | Message: Too few arguments to function app\widgets\dtorrent\Model::setInfo(), 0 passed in /opt/lampp/htdocs/fad/app/widgets/dtorrent/Controller.php on line 27 and exactly 1 expected | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 27
+[2023-06-28 17:59:49] Code: 2 | Message: Undefined property: app\widgets\dtorrent\Controller::$request | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Controller.php | Line: 27
+[2023-06-28 18:00:31] Code: 2 | Message: Undefined property: app\widgets\dtorrent\Model::$comfigs | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 29
+[2023-06-28 18:00:57] Code: 2 | Message: Undefined property: app\widgets\dtorrent\Model::$comfigs | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 29
+[2023-06-28 18:01:35] Code: 2 | Message: Undefined variable $db | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 31
+[2023-06-28 18:18:59] Code: 0 | Message: Call to undefined method app\modules\basedb\Controller::findAll() | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 40
+[2023-06-28 18:24:04] Code: 0 | Message: Call to undefined method app\modules\basedb\Controller::findAll() | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 40
+[2023-06-28 18:24:32] Code: 2 | Message: Undefined array key "name" | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 40
+[2023-06-28 18:25:15] Code: 0 | Message: Cannot assign null to property app\widgets\dtorrent\Controller::$trackers of type array | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Controller.php | Line: 28
+[2023-06-28 18:26:52] Code: 0 | Message: Cannot assign null to property app\widgets\dtorrent\Controller::$trackers of type array | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Controller.php | Line: 28
+[2023-06-28 18:42:20] Code: 2 | Message: Undefined variable $trackers | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 49
+[2023-06-28 18:42:45] Code: 2 | Message: foreach() argument must be of type array|object, string given | File: /opt/lampp/htdocs/fad/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 123
+[2023-06-28 20:02:18] Code: 2 | Message: Undefined variable $hash | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 22
+[2023-06-28 20:02:46] Code: 0 | Message: Too few arguments to function app\widgets\dtorrent\Model::setTdata(), 0 passed in /opt/lampp/htdocs/fad/app/widgets/dtorrent/Controller.php on line 26 and exactly 1 expected | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 18
+[2023-06-28 20:03:26] Code: 0 | Message: array_key_exists(): Argument #2 ($array) must be of type array, RedBeanPHP\OODBBean given | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 23
+[2023-06-28 20:04:20] Code: 0 | Message: array_key_exists(): Argument #2 ($array) must be of type array, null given | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 23
+[2023-06-28 20:10:11] Code: 0 | Message: array_key_exists(): Argument #2 ($array) must be of type array, null given | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 23
+[2023-06-30 22:34:28] Code: 2 | Message: Undefined array key "base_url" | File: /opt/lampp/htdocs/fad/app/widgets/parser/Controller.php | Line: 39
+[2023-07-01 14:50:12] Code: 2 | Message: Trying to access array offset on value of type null | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 40
+[2023-07-01 14:52:09] Code: 2 | Message: Trying to access array offset on value of type null | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 40
+[2023-07-01 14:52:46] Code: 2 | Message: Trying to access array offset on value of type null | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 40
+[2023-07-01 14:56:54] Code: 0 | Message: Call to undefined function app\widgets\dtorrent\findOne() | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 40
+[2023-07-01 14:57:28] Code: 0 | Message: array_key_exists(): Argument #2 ($array) must be of type array, null given | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 41
+[2023-07-01 15:57:07] Code: 0 | Message: array_key_exists(): Argument #2 ($array) must be of type array, RedBeanPHP\OODBBean given | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 24
+[2023-07-01 15:57:27] Code: 0 | Message: array_key_exists(): Argument #2 ($array) must be of type array, RedBeanPHP\OODBBean given | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 24
+[2023-07-01 15:58:54] Code: 0 | Message: array_key_exists(): Argument #2 ($array) must be of type array, RedBeanPHP\OODBBean given | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 24
+[2023-07-01 16:03:53] Code: 0 | Message: array_key_exists(): Argument #2 ($array) must be of type array, RedBeanPHP\OODBBean given | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 25
+[2023-07-01 16:15:37] Code: 0 | Message: array_key_exists(): Argument #2 ($array) must be of type array, null given | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 25
+[2023-07-01 16:16:05] Code: 0 | Message: array_key_exists(): Argument #2 ($array) must be of type array, RedBeanPHP\OODBBean given | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 42
+[2023-07-01 16:22:39] Code: 0 | Message: array_key_exists(): Argument #2 ($array) must be of type array, RedBeanPHP\OODBBean given | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 42
+[2023-07-01 16:29:01] Code: 0 | Message: Call to a member function export() on string | File: /opt/lampp/htdocs/fad/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 2544
+[2023-07-01 16:30:47] Code: 0 | Message: array_key_exists(): Argument #2 ($array) must be of type array, RedBeanPHP\OODBBean given | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 42
+[2023-07-01 16:32:54] Code: 0 | Message: Call to a member function export() on string | File: /opt/lampp/htdocs/fad/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 2544
+[2023-07-01 16:36:32] Code: 0 | Message: array_key_exists(): Argument #2 ($array) must be of type array, RedBeanPHP\OODBBean given | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 42
+[2023-07-01 16:37:50] Code: 0 | Message: array_key_exists(): Argument #2 ($array) must be of type array, RedBeanPHP\OODBBean given | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 42
+[2023-07-01 16:46:11] Code: 0 | Message: array_key_exists(): Argument #2 ($array) must be of type array, RedBeanPHP\OODBBean given | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 41
+[2023-07-01 16:59:58] Code: 2 | Message: Undefined array key "name" | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/tdataView.php | Line: 1
+[2023-07-01 18:18:48] Code: 0 | Message: Object of class app\widgets\dtorrent\Controller could not be converted to string | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/tdataView.php | Line: 7
+[2023-07-01 18:19:05] Code: 0 | Message: Object of class app\widgets\dtorrent\Controller could not be converted to string | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/tdataView.php | Line: 7
+[2023-07-01 18:33:25] Code: 0 | Message: Object of class app\widgets\dtorrent\Controller could not be converted to string | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/tdataView.php | Line: 7
+[2023-07-01 19:07:25] Code: 0 | Message: Call to a member function export() on null | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 40
+[2023-07-01 19:08:06] Code: 0 | Message: Call to a member function export() on null | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 40
+[2023-07-01 19:39:24] Code: 2 | Message: Undefined array key "cat0" | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/tdataView.php | Line: 7
+[2023-07-01 20:22:00] Code: 2 | Message: Undefined array key "size" | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/trackerView.php | Line: 6
+[2023-07-01 20:28:14] Code: 2 | Message: Undefined array key "torrentst" | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/trackerView.php | Line: 6
+[2023-07-01 20:29:14] Code: 0 | Message: syntax error, unexpected token ";", expecting "]" | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/fileView.php | Line: 6
+[2023-07-01 20:29:56] Code: 0 | Message: syntax error, unexpected token ";", expecting "]" | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/fileView.php | Line: 6
+[2023-07-01 22:15:54] Code: 2 | Message: Undefined variable $w_torrent | File: /opt/lampp/htdocs/fad/app/pages/search/__/indexView.php | Line: 1
+[2023-07-01 22:17:49] Code: 2 | Message: Trying to access array offset on value of type null | File: /opt/lampp/htdocs/fad/app/widgets/torrent/Model.php | Line: 22
+[2023-07-02 15:56:16] Code: 2 | Message: Undefined array key "name" | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/tdataView.php | Line: 1
+[2023-07-04 15:10:00] Code: 2 | Message: Undefined array key "name" | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/tdataView.php | Line: 1
+[2023-07-04 15:12:15] Code: 2 | Message: Undefined array key "name" | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/tdataView.php | Line: 1
+[2023-07-04 15:12:46] Code: 2 | Message: Undefined array key "name" | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/tdataView.php | Line: 1
+[2023-07-04 15:29:33] Code: 0 | Message: Call to undefined function app\widgets\languageselector\getPage() | File: /opt/lampp/htdocs/fad/app/widgets/languageselector/Controller.php | Line: 43
+[2023-07-04 15:29:55] Code: 0 | Message: Call to undefined function app\widgets\languageselector\getPage() | File: /opt/lampp/htdocs/fad/app/widgets/languageselector/Controller.php | Line: 43
+[2023-07-04 15:30:22] Code: 2 | Message: Undefined property: app\widgets\languageselector\Controller::$request | File: /opt/lampp/htdocs/fad/app/widgets/languageselector/Controller.php | Line: 46
+[2023-07-04 15:56:00] Code: 0 | Message: Call to undefined method fa\Registry::redirect() | File: /opt/lampp/htdocs/fad/app/widgets/languageselector/Controller.php | Line: 26
+[2023-07-04 16:04:20] Code: 0 | Message: Call to undefined function data() | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/tdataView.php | Line: 15
+[2023-07-04 21:30:48] Code: 2 | Message: Array to string conversion | File: /opt/lampp/htdocs/fad/app/widgets/dtorrent/Model.php | Line: 24
+[2023-07-14 15:16:32] Code: 0 | Message: Call to undefined method app\widgets\torrent2\Controller::search() | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Controller.php | Line: 71
+[2023-07-14 15:18:27] Code: 2 | Message: Array to string conversion | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/searchView.php | Line: 52
+[2023-07-14 15:18:47] Code: 2 | Message: Array to string conversion | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/searchView.php | Line: 52
+[2023-07-14 15:22:12] Code: 2 | Message: Array to string conversion | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/searchView.php | Line: 52
+[2023-07-17 11:34:08] Code: 0 | Message: Class "app\widgets\torrent2\App" not found | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Model.php | Line: 20
+[2023-07-17 16:36:49] Code: 2 | Message: Array to string conversion | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Model.php | Line: 24
+[2023-07-17 16:41:27] Code: 0 | Message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'torrents.title LIKE '%bbc%'' at line 1 | File: /opt/lampp/htdocs/fad/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+[2023-07-17 16:41:59] Code: 0 | Message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'torrents.title LIKE '%bb%'' at line 1 | File: /opt/lampp/htdocs/fad/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+[2023-07-17 16:45:59] Code: 0 | Message: app\widgets\torrent2\Model::get_count_find(): Return value must be of type int, null returned | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Model.php | Line: 24
+[2023-07-17 17:30:18] Code: 0 | Message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') AND torrents.title LIKE '%bbc%'' at line 1 | File: /opt/lampp/htdocs/fad/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+[2023-07-17 17:52:23] Code: 2 | Message: Array to string conversion | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Model.php | Line: 24
+[2023-07-17 17:53:42] Code: 0 | Message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Books AND torrents.title LIKE '%bo%'' at line 1 | File: /opt/lampp/htdocs/fad/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+[2023-07-17 20:41:59] Code: 0 | Message: Class "app\widgets\torrent2\Pagination" not found | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Controller.php | Line: 115
+[2023-07-17 22:14:20] Code: 0 | Message: Object of class app\widgets\torrent2\Pagination could not be converted to string | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/resultView.php | Line: 16
+[2023-07-20 13:22:39] Code: 2 | Message: Undefined property: app\widgets\torrent2\Pagination::$count | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Pagination.php | Line: 25
+[2023-07-20 13:25:17] Code: 0 | Message: Division by zero | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Pagination.php | Line: 30
+[2023-07-20 13:29:42] Code: 0 | Message: Division by zero | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Pagination.php | Line: 34
+[2023-07-20 13:32:22] Code: 0 | Message: Division by zero | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Pagination.php | Line: 34
+[2023-07-20 13:33:56] Code: 2 | Message: Undefined variable $page_count | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Pagination.php | Line: 24
+[2023-07-20 13:35:21] Code: 2 | Message: Undefined variable $page_count | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Controller.php | Line: 116
+[2023-07-20 13:35:52] Code: 2 | Message: Undefined variable $page_count | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Controller.php | Line: 116
+[2023-07-20 13:37:22] Code: 2 | Message: Undefined variable $page_count | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Pagination.php | Line: 25
+[2023-07-20 13:38:27] Code: 2 | Message: Undefined variable $page_count | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Pagination.php | Line: 25
+[2023-07-20 13:39:24] Code: 2 | Message: Undefined variable $page | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Pagination.php | Line: 25
+[2023-07-20 13:41:05] Code: 2 | Message: Undefined variable $page | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Pagination.php | Line: 25
+[2023-07-20 13:42:06] Code: 2 | Message: Undefined variable $page | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Pagination.php | Line: 25
+[2023-07-20 13:48:10] Code: 0 | Message: Class "Pagination" not found | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/resultView.php | Line: 17
+[2023-07-20 13:58:08] Code: 0 | Message: Call to undefined function app\widgets\torrent2\getCountPage() | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Pagination.php | Line: 16
+[2023-07-20 20:31:39] Code: 0 | Message: Class "app\widgets\torrent2\App" not found | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Pagination.php | Line: 22
+[2023-07-20 21:20:28] Code: 2 | Message: Undefined variable $prefix_kebab | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Pagination.php | Line: 24
+[2023-07-20 21:20:50] Code: 0 | Message: Cannot assign array to property fa\Registry::$get of type string | File: /opt/lampp/htdocs/fad/vendor/fa/Registry.php | Line: 90
+[2023-07-20 21:53:43] Code: 0 | Message: Access to undeclared static property fa\App::$pp | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Pagination.php | Line: 25
+[2023-07-20 23:07:02] Code: 0 | Message: implode(): Argument #2 ($array) must be of type ?array, string given | File: /opt/lampp/htdocs/fad/vendor/fa/Registry.php | Line: 110
+[2023-07-20 23:09:05] Code: 0 | Message: implode(): Argument #2 ($array) must be of type ?array, string given | File: /opt/lampp/htdocs/fad/vendor/fa/Registry.php | Line: 110
+[2023-07-20 23:11:29] Code: 0 | Message: array_shift() expects exactly 1 argument, 2 given | File: /opt/lampp/htdocs/fad/vendor/fa/Registry.php | Line: 111
+[2023-07-21 02:50:52] Code: 2 | Message: Undefined variable $forvard | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/paginationView.php | Line: 6
+[2023-07-21 04:10:09] Code: 0 | Message: Unsupported operand types: string - int | File: /opt/lampp/htdocs/fad/app/widgets/torrent2/Controller.php | Line: 104
+[2023-07-21 04:26:33] Code: 2 | Message: Undefined array key 1 | File: /opt/lampp/htdocs/fad/vendor/fa/Registry.php | Line: 106
+[2023-07-21 04:28:49] Code: 2 | Message: Undefined array key 1 | File: /opt/lampp/htdocs/fad/vendor/fa/Registry.php | Line: 107
+[2023-07-21 04:31:38] Code: 0 | Message: syntax error, unexpected token "}" | File: /opt/lampp/htdocs/fad/vendor/fa/Registry.php | Line: 109
+[2023-07-21 11:48:24] Code: 2 | Message: foreach() argument must be of type array|object, string given | File: /opt/lampp/htdocs/fad/vendor/fa/Registry.php | Line: 150
+[2023-07-21 12:58:02] Code: 0 | Message: Class "app\widgets\torrent3\Pagination" not found | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/Controller.php | Line: 130
+[2023-07-21 13:05:54] Code: 0 | Message: Class "app\widgets\torrent3\Pagination" not found | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/Controller.php | Line: 130
+[2023-07-21 13:09:54] Code: 0 | Message: Call to undefined method fa\basic\models\WidgetModel::get_count_find() | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/Controller.php | Line: 95
+[2023-07-21 14:32:03] Code: 0 | Message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Android', 'Anime', 'Apps', 'Books', 'FLAC', 'Games', 'Mobile', 'Moves', 'Music',' at line 1 | File: /opt/lampp/htdocs/fad/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+[2023-07-21 14:33:58] Code: 2 | Message: Array to string conversion | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/Controller.php | Line: 130
+[2023-07-21 14:35:54] Code: 2 | Message: Array to string conversion | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/Controller.php | Line: 130
+[2023-07-21 14:36:41] Code: 0 | Message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Android', 'Anime', 'Apps', 'Books', 'FLAC', 'Games', 'Mobile', 'Moves', 'Music',' at line 1 | File: /opt/lampp/htdocs/fad/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+[2023-07-21 14:37:53] Code: 2 | Message: Undefined variable $cat | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/Controller.php | Line: 124
+[2023-07-21 14:38:21] Code: 0 | Message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Android', 'Anime', 'Apps', 'Books', 'FLAC', 'Games', 'Mobile', 'Moves', 'Music',' at line 1 | File: /opt/lampp/htdocs/fad/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+[2023-07-21 14:39:19] Code: 0 | Message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Android', 'Anime', 'Apps', 'Books', 'FLAC', 'Games', 'Mobile', 'Moves', 'Music',' at line 1 | File: /opt/lampp/htdocs/fad/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+[2023-07-21 14:39:39] Code: 0 | Message: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Android', 'Anime', 'Apps', 'Books', 'FLAC', 'Games', 'Mobile', 'Moves', 'Music',' at line 1 | File: /opt/lampp/htdocs/fad/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+[2023-07-21 19:10:35] Code: 2 | Message: Undefined variable $res | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/resultView.php | Line: 8
+[2023-07-23 15:19:30] Code: 0 | Message: Class "App" not found | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/resultView.php | Line: 5
+[2023-07-23 15:24:01] Code: 2 | Message: Undefined variable $t | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/resultView.php | Line: 5
+[2023-07-23 15:41:10] Code: 2 | Message: Undefined variable $prefix | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/resultView.php | Line: 7
+[2023-07-24 16:41:52] Code: 2 | Message: Undefined array key "request" | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/Controller.php | Line: 99
+[2023-07-24 16:42:25] Code: 2 | Message: Undefined variable $date | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/Model.php | Line: 32
+[2023-07-24 19:37:08] Code: 2 | Message: Undefined variable $db | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/Model.php | Line: 45
+[2023-07-24 19:49:58] Code: 2 | Message: Trying to access array offset on value of type null | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/Model.php | Line: 61
+[2023-07-24 20:57:57] Code: 2 | Message: Undefined variable $ch | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/Model.php | Line: 61
+[2023-07-24 20:59:06] Code: 2 | Message: Undefined variable $curl | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/Model.php | Line: 61
+[2023-07-26 15:05:15] Code: 2 | Message: Trying to access array offset on value of type null | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/Model.php | Line: 30
+[2023-07-26 15:06:15] Code: 2 | Message: foreach() argument must be of type array|object, null given | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/resultView.php | Line: 16
+[2023-07-26 15:07:16] Code: 2 | Message: foreach() argument must be of type array|object, null given | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/resultView.php | Line: 16
+[2023-07-26 15:09:28] Code: 2 | Message: foreach() argument must be of type array|object, null given | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/resultView.php | Line: 16
+[2023-07-26 15:10:14] Code: 2 | Message: foreach() argument must be of type array|object, null given | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/resultView.php | Line: 16
+[2023-07-26 15:22:28] Code: 0 | Message: Unsupported operand types: string + string | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/Controller.php | Line: 131
