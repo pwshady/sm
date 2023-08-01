@@ -140,3 +140,9 @@
 [2023-07-26 15:09:28] Code: 2 | Message: foreach() argument must be of type array|object, null given | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/resultView.php | Line: 16
 [2023-07-26 15:10:14] Code: 2 | Message: foreach() argument must be of type array|object, null given | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/resultView.php | Line: 16
 [2023-07-26 15:22:28] Code: 0 | Message: Unsupported operand types: string + string | File: /opt/lampp/htdocs/fad/app/widgets/torrent3/Controller.php | Line: 131
+[2023-07-29 18:36:55] Code: 2 | Message: Undefined variable $w_baseauthdb | File: /opt/lampp/htdocs/sm/app/pages/login/__/indexView.php | Line: 1
+[2023-07-29 18:41:16] Code: 2 | Message: Undefined property: app\widgets\baseauthdb\Controller::$request | File: /opt/lampp/htdocs/sm/app/widgets/baseauthdb/Controller.php | Line: 20
+[2023-07-29 19:17:10] Code: 2 | Message: foreach() argument must be of type array|object, string given | File: /opt/lampp/htdocs/sm/vendor/fa/Registry.php | Line: 207
+[2023-07-29 19:34:39] Code: 0 | Message: in_array(): Argument #2 ($haystack) must be of type array, string given | File: /opt/lampp/htdocs/sm/vendor/fa/basic/controllers/PageController.php | Line: 112
+[2023-07-29 21:46:26] Code: 2 | Message: Undefined variable $request | File: /opt/lampp/htdocs/sm/app/widgets/baseauthdb/Controller.php | Line: 51
+[2023-07-29 21:47:08] Code: 2 | Message: require_once(/opt/lampp/htdocs/sm/app/widgets/baseauthdb/loginView.php): Failed to open stream: No such file or directory | File: /opt/lampp/htdocs/sm/app/widgets/baseauthdb/Controller.php | Line: 58

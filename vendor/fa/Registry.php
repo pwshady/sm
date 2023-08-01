@@ -208,7 +208,7 @@ class Registry
             }
         }
         self::$userRoles[] = $value;
-            return 2;
+        return 2;
     }
 
     public static function getAccess(): array

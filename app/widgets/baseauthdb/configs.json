@@ -1,0 +1,12 @@
+{
+    "modul_db_name": "basedb",
+    "table_name": "",
+    "email_name": "",
+    "pass_name": "",
+    "role": "",
+    "close_page": "",
+    "page": "user",
+    "register_request": "register",
+    "captcha": {},
+    "verification": {}
+}
